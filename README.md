@@ -1,6 +1,8 @@
 # 🖱️ Vorozheikin AutoClicker — Release 3
 
 **A production Windows desktop RPA utility that records real user input and replays it with pixel-accurate timing — built as a single-threaded UI + background worker architecture with cloud-backed licensing.**
+<img width="1565" height="1463" alt="image" src="https://github.com/user-attachments/assets/f90ea8cb-675f-4073-ae2f-7df7267ae97d" />
+
 
 Stop repeating the same clicks, drags, and keystrokes in ERP forms, browsers, and legacy desktop apps. Record once, edit the step timeline, and replay macros on demand or on a schedule — without writing scripts by hand.
 
